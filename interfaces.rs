@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-11-24 18:36:57.378370100 UTC
+// 2025-11-26 11:56:51.227510300 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
@@ -13,11 +13,11 @@ pub mod cs2_dumper {
         // Module: client.dll
         pub mod client_dll {
             pub const ClientToolsInfo_001: usize = 0x1BE5BB0;
-            pub const EmptyWorldService001_Client: usize = 0x1BA0FB0;
+            pub const EmptyWorldService001_Client: usize = 0x1BA0FA0;
             pub const GameClientExports001: usize = 0x1BE2890;
             pub const LegacyGameUI001: usize = 0x1C01130;
-            pub const Source2Client002: usize = 0x1E2A570;
-            pub const Source2ClientConfig001: usize = 0x1DC3DD0;
+            pub const Source2Client002: usize = 0x1E2A5F0;
+            pub const Source2ClientConfig001: usize = 0x1DC3E50;
             pub const Source2ClientPrediction001: usize = 0x1BECE50;
             pub const Source2ClientUI001: usize = 0x1BFF670;
         }
@@ -127,7 +127,7 @@ pub mod cs2_dumper {
         }
         // Module: particles.dll
         pub mod particles_dll {
-            pub const ParticleSystemMgr003: usize = 0x555680;
+            pub const ParticleSystemMgr003: usize = 0x555660;
         }
         // Module: pulse_system.dll
         pub mod pulse_system_dll {
@@ -151,7 +151,7 @@ pub mod cs2_dumper {
         // Module: scenesystem.dll
         pub mod scenesystem_dll {
             pub const RenderingPipelines_001: usize = 0x61BB40;
-            pub const SceneSystem_002: usize = 0x83E7D0;
+            pub const SceneSystem_002: usize = 0x83E790;
             pub const SceneUtils_001: usize = 0x61C440;
         }
         // Module: schemasystem.dll
@@ -161,7 +161,7 @@ pub mod cs2_dumper {
         // Module: server.dll
         pub mod server_dll {
             pub const EmptyWorldService001_Server: usize = 0x1732FA0;
-            pub const EntitySubclassUtilsV001: usize = 0x16DF2D0;
+            pub const EntitySubclassUtilsV001: usize = 0x16DF2C0;
             pub const NavGameTest001: usize = 0x17DBD10;
             pub const ServerToolsInfo_001: usize = 0x178B1A8;
             pub const Source2GameClients001: usize = 0x1786AF0;
