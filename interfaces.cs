@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-12-21 07:38:29.917503700 UTC
+// 2025-12-26 10:04:04.445089700 UTC
 
 namespace CS2Dumper.Interfaces {
     // Module: animationsystem.dll
@@ -181,7 +181,7 @@ namespace CS2Dumper.Interfaces {
     }
     // Module: steamclient64.dll
     public static class Steamclient64Dll {
-        public static readonly nint CLIENTENGINE_INTERFACE_VERSION005 = unchecked((nint)0xFFFFFFFF8BB4C25A);
+        public static readonly nint CLIENTENGINE_INTERFACE_VERSION005 = unchecked((nint)0xFFFFFFFF8BB4C32A);
         public const nint IVALIDATE001 = 0x1665ED8;
         public const nint SteamClient006 = 0x16633E0;
         public const nint SteamClient007 = 0x16633E8;
