@@ -1,9 +1,10 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-01-24 21:38:16.237009600 UTC
+// 2026-01-31 11:02:16.655853100 UTC
 
 #pragma once
 
 #include <cstddef>
+#include <cstdint>
 
 namespace cs2_dumper {
     // Module: client.dll
@@ -15,14 +16,14 @@ namespace cs2_dumper {
         constexpr std::ptrdiff_t forward = 0x205B820;
         constexpr std::ptrdiff_t jump = 0x205BAF0;
         constexpr std::ptrdiff_t left = 0x205B940;
-        constexpr std::ptrdiff_t lookatweapon = 0x2312300;
+        constexpr std::ptrdiff_t lookatweapon = 0x2312470;
         constexpr std::ptrdiff_t reload = 0x205B550;
         constexpr std::ptrdiff_t right = 0x205B9D0;
-        constexpr std::ptrdiff_t showscores = 0x23121E0;
+        constexpr std::ptrdiff_t showscores = 0x2312350;
         constexpr std::ptrdiff_t sprint = 0x205B4C0;
         constexpr std::ptrdiff_t turnleft = 0x205B700;
         constexpr std::ptrdiff_t turnright = 0x205B790;
         constexpr std::ptrdiff_t use = 0x205BA60;
-        constexpr std::ptrdiff_t zoom = 0x2312270;
+        constexpr std::ptrdiff_t zoom = 0x23123E0;
     }
 }
